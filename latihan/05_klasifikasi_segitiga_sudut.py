@@ -16,4 +16,3 @@ else:
         print("Segitiga siku-siku")
     else:
         print("Segitiga lancip")
-        
